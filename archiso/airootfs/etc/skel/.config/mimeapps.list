@@ -1,0 +1,6 @@
+[Default Applications]
+image/jpeg=org.gnome.eog.desktop
+
+[Added Associations]
+image/jpeg=org.gnome.eog.desktop;
+application/x-shellscript=code.desktop;
